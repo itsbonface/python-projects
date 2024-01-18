@@ -1,0 +1,2 @@
+Since this is always the first project for every programmer, I thought of doing it with a little flavor.
+This creates a function that prints a string, single character at a time using the time function. At a glance, it displays the use of python in-buint functions and for-loop technique.
